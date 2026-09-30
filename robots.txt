@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rochesterwaterheaterco.com/sitemap.xml
